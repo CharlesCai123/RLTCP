@@ -1,0 +1,1 @@
+{"max_capacity": 100000000.0, "min_capacity": 100000.0, "num_hosts": 6, "id": "", "traffic_files": ["incast_2", "incast_4", "incast_8", "incast_16", "incast_32", "incast_64", "incast_128", "incast_256", "incast_512", "incast_1024"]}

@@ -1,0 +1,1 @@
+{"transport": ["tcp"], "episodes": 100, "runs": 1, "topology": "dumbbell", "tcp_algorithms": ["TCP_CUBIC"], "rl_algorithms": ["RLTCP"], "rates": [1000], "pattern": 0, "timestamp": "2022_12_16_13_48_06"}
